@@ -11,13 +11,13 @@
         "username": "Vishesh12",
         "password": "Vishesh1130",
         "expirydate": "29-10-2024",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "1986fa1bdcc0eb7d",
         "username": "Vishesh12",
         "password": "Vishesh1130",
         "expirydate": "29-10-2024",
-        "Allowoffline": false
+        "Allowoffline": true
     }
 ]
