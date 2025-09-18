@@ -1,23 +1,23 @@
 [
     {
         "device_id": "1986fa1bdcc0eb7d",
-        "username": "Vishesh38",
+        "username": "Vishesh",
         "password": "Vishesh1130",
-        "expirydate": "29-10-2025",
+        "expirydate": "19-10-2025",
         "Allowoffline": true
     },
     {
         "device_id": "1986fa1bdcc0eb7d",
-        "username": "Vishesh38",
+        "username": "Vishesh",
         "password": "Vishesh1130",
-        "expirydate": "19-10-2025",
+        "expirydate": "29-10-2025",
         "Allowoffline": false
     },
     {
         "device_id": "1986fa1bdcc0eb7d",
-        "username": "Vishesh38",
+        "username": "Vishesh",
         "password": "Vishesh1130",
-        "expirydate": "19-10-2025",
+        "expirydate": "29-10-2025",
         "Allowoffline": false
     }
 ]
