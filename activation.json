@@ -1,23 +1,23 @@
 [
     {
-        "device_id": "1986fa1bdcc0eb7d",
-        "username": "Vishesh12",
-        "password": "Vishesh1130",
+        "device_id": "38d5886f38f7eb5b",
+        "username": "Omkar252",
+        "password": "OmkarJi",
         "expirydate": "19-10-2024",
-        "Allowoffline": true
+        "Allowoffline": "true"
     },
     {
-        "device_id": "1986fa1bdcc0eb7d",
-        "username": "Vishesh12",
-        "password": "Vishesh1130",
+        "device_id": "38d5886f38f7eb5b",
+        "username": "Omkar252",
+        "password": "OmkarJi",
         "expirydate": "29-10-2024",
-        "Allowoffline": true
+        "Allowoffline": "false"
     },
     {
-        "device_id": "1986fa1bdcc0eb7d",
-        "username": "Vishesh12",
-        "password": "Vishesh1130",
+        "device_id": "38d5886f38f7eb5b",
+        "username": "Omkar252",
+        "password": "OmkarJi",
         "expirydate": "29-10-2024",
-        "Allowoffline": true
+        "Allowoffline": "true"
     }
 ]
